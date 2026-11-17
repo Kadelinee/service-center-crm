@@ -1,0 +1,23 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Іван Петренко",
+      "phone": "+380671234567",
+      "email": "ivan@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Марія Коваль",
+      "phone": "+380501112233",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Олена Шевченко",
+      "phone": "+380931234567",
+      "email": "olena@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
